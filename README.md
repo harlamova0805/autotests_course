@@ -1,2 +1,2 @@
-# autotests_course_example
+# autotests_course
 Домашние работы курса "Основы автотестирования" Харламова Н.М.
